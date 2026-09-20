@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.4",
-    "url":  "https://github.com/mxzh01/opmis-harness-updates/releases/download/v1.2.4/OPMIS-Harness-Setup-1.2.4.exe",
-    "notes":  "更新版本为V1.2.4"
+    "version":  "1.2.5",
+    "url":  "https://github.com/mxzh01/opmis-harness-updates/releases/download/v1.2.5/OPMIS-Harness-Setup-1.2.5.exe",
+    "notes":  "更新源改为自动读取 GitHub Releases，以后发版只需上传"
 }
