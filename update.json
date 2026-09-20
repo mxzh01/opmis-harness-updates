@@ -1,5 +1,5 @@
 {
-    "version":  "v1.2.4",
-    "url":  "https://github.com/mxzh01/opmis-harness-updates/releases/download/v1.2.4/OPMIS-Harness-Setup-1.2.4.exe",
-    "notes":  "这是一次更新提醒的演示，弹窗由程序真实机制触发。\n\n1. 点「立即下载」会打开真实的安装包下载链接\n2. 点「稍后提醒」会在 3 天内不再打扰你\n\n演示结束后会把更新源改回正常状态。"
+    "version":  "1.2.3",
+    "url":  "https://github.com/mxzh01/opmis-harness-updates/releases/download/v1.2.3/OPMIS-Harness-Setup-1.2.3.exe",
+    "notes":  "1. 修复上传透明背景头像后显示为黑底的问题\n2. 修复窗口标题栏显示为其他名称的问题\n3. 新增新版本自动提醒"
 }
