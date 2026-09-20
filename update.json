@@ -1,0 +1,5 @@
+{
+  "version": "1.2.3",
+  "url": "https://github.com/mxzh01/opmis-harness-updates/releases/download/v1.2.3/OPMIS-Harness-Setup-1.2.3.exe",
+  "notes": "OPMIS Harness 1.2.3\n\n1. 修复上传透明背景头像后显示为黑底的问题\n2. 修复窗口标题栏显示为其他名称的问题\n3. 新增新版本自动提醒"
+}
